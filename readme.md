@@ -33,7 +33,7 @@ Download the pre-trained weight of [MRM](https://drive.google.com/file/d/1JwZaqv
             val_list.txt
             test_list.txt
 ```	
-- Specify the ``dataset_path`` in [ft_lora.sh](/ft_lora.sh) or [ft_lora_mrm.sh](/ft_lora_mrm.sh)
+- Specify the ``dataset_path`` in [ft_lora_mrm.sh](/ft_lora_mrm.sh)
 
 ## 4 Start fine-tuning (take 1% data as the example)
 
