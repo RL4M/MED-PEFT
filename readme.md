@@ -45,7 +45,7 @@ Download the pre-trained weight of [MRM](https://drive.google.com/file/d/1JwZaqv
       ./ft_lora_mrm.sh
 ```
 ## 5 Recommended LoRA fine-tuning hyperparameters
-### 5.1 For MRM pre-training
+### 5.1 For MRM pre-trained weights
 
 |     NIH     |     epochs           |     optimizer    |     learning rate    |   lora rank  |
 |-------------|----------------------|------------------|----------------------|--------------|
@@ -66,7 +66,7 @@ Download the pre-trained weight of [MRM](https://drive.google.com/file/d/1JwZaqv
 |     100%    |     100              |     sgd          |     0.01             |      32      |
 
 
-### 5.2 For CXR_MAE pre-training
+### 5.2 For CXR_MAE pre-trained weights
 
 |     NIH     |     epochs           |     optimizer    |  base learning rate  |   lora rank  |
 |-------------|----------------------|------------------|----------------------|--------------|
