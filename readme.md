@@ -1,5 +1,5 @@
-# Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Imaging Foundation Models
-This repository includes an official implementation of paper: [Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Imaging Foundation Models](TODO:arxivlink).
+# Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Vision Foundation Models
+This repository includes an official implementation of paper: [Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Vision Foundation Models](TODO:arxivlink).
 
 Some code is borrowed from [MRM](https://github.com/RL4M/MRM-pytorch), [LoRA](https://github.com/microsoft/LoRA), and [MAE](https://github.com/facebookresearch/mae).
 
